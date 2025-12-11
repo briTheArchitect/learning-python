@@ -10,6 +10,11 @@ regular practice as I build proficiency in the language.
 - Build consistency through daily or near-daily coding practice
 - Prepare for future standalone Python projects
 
+## Highlighted Exercises
+- `exercises/caesar_cipher.py` – flexible Caesar cipher with encrypt/decrypt modes
+- `exercises/rpg_character.py` – RPG character creation with stat validation
+- `exercises/list_comp_cheatsheet.py` – list comprehension patterns + examples
+
 ## What You'll Find Here
 - Short scripts focused on specific concepts
 - Practice exercises and experiments
@@ -17,10 +22,10 @@ regular practice as I build proficiency in the language.
 
 ## Repository Structure
 Folders are organized by topic or practice area. Examples include:
-- Basics (syntax, variables, conditionals, loops)
-- Data structures (lists, dictionaries, sets)
-- File handling
-- Small exercises and experiments
+- **Basics:** syntax, variables, conditionals, loops
+- **Data structures:** lists, dictionaries, sets
+- **File handling**
+- **Small exercises and experiments**
 
 ## Notes
 This repository is intentionally scoped to learning and experimentation.
